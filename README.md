@@ -84,7 +84,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center"><img src="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31ul6mvr5cbvu3baoljqdbw42bmi&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31ul6mvr5cbvu3baoljqdbw42bmi&cover_image=true&theme=karaoke&show_offline=true" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ul6mvr5cbvu3baoljqdbw42bmi&cover_image=true&theme=karaoke&show_offline=false" /></div>  
 
 <br/>  
 
