@@ -9,7 +9,7 @@ I'm Android developer from Uzbekistan
 <br/>  
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I'm Android developer from Uzbekistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamshidisoqov&label=Profile%20views&color=0e75b6&style=flat" alt="jamshidisoqov" /> </p>
 
