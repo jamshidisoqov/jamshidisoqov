@@ -40,4 +40,4 @@
 [![ProfessorDeveloper's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jamshidisoqov&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # My Waka Time
-[![StcAndroid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=durov&theme=radical)](https://wakatime.com/@durov)
+[![StcAndroid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jamshid_io&theme=radical)](https://wakatime.com/@jamshid_io)
