@@ -1,43 +1,50 @@
- **<img src="https://user-images.githubusercontent.com/108933534/210176487-bb71ad61-85d6-4027-a637-5384e9a95733.gif" width="50" height="50"/>**  **About me**
-
-<p align="center">
-  <a href="https://github.com/jamshidisoqov/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=Hello+Github;Welcome+to+my+profile;kotlin+java+dart;Android+Flutter+KMM"></a>
-</p>
-
-
-### 📊 My Github Stats:
-![Stc Android's github stats](https://github-readme-stats.vercel.app/api?username=jamshidisoqov&show_icons=truea&theme=dracula)
-
-    
- <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jamshidisoqov&theme=dracula&line_height=60&line_width=120"/> </a>
-
-
-## My Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jamshidisoqov&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=dracula&date_format=[Y.]n.j)](https://git.io/streak-stats)
-
-## My Ranks
-
-<img src="https://github-profile-trophy.vercel.app/?username=jamshidisoqov&theme=radical" alt="GitHub Ranks" /></a></p>
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
-
-
-## 🛠 Skills Flutter, Kotlin, Dart, Javascript, HTML, JAVA, Firebase, Node
-[resume]: https://drive.google.com/file/d/1ryZi4rw91dM1LL62zYgHpemjKuxkWHdx/view?usp=sharing
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-
-# Diagram 
-
-[![ProfessorDeveloper's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jamshidisoqov&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-# My Waka Time
-[![StcAndroid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jamshid_io&theme=radical)](https://wakatime.com/@jamshid_io)
+1. Dasturiy ta’minot ishlab chiqishning samaradorligini oshirish va optimallashtirish bilan shug‘ullanuvchi soha – Dasturiy injiniring
+2. Kompyuterda ma’lum bir turdagi vazifani bajarish uchun ishlab chiqilgan vosita – Dasturiy ta’minot
+3. Foydalanuvchiga aniq bir sohada ishlov beruvchi dasturlar – Amaliy dasturiy ta’minot
+4. Dasturiy ta’minot nechta guruhga bo‘linadi – 3
+5. Loyihalash jarayoni bu – dasturiy ta’minot arxitekturasini yanada batafsil ishlab chiqish
+6. Quyi darajadagi konstruktsiyalash – dasturiy ta’minot arxitekturasini yanada batafsil ishlab chiqish
+7. Dasturiy ta’minot tuzishning bazaviy konsepsiyalari jamlanmasi – dasturiy ta’minot arxitekturasi
+8. Dasturiy mahsulot yaratishga olib keladigan jarayonlar majmui – Dasturiy ta’minotni ishlab chiqish jarayoni
+9. CASE iborasi – Computer-Aided Software Engineering
+10. Dasturiy ta’minotni konstruksiyalash jarayoniga kirmaydi – konstruksiyalash g‘oyalari
+11. Dasturiy tizimning bir qismi – Modul
+12. Prototip – tizimning ishchi versiyasi
+13. Dasturiy ta’minotni ishlab chiqish standarti emas – Dasturchilar standartlari
+14. Dastur kodini takomillashtirish – Refaktoring
+15. Dasturiy ta’minotga yangi funksionallik qo‘shish – Evolyutsiya
+16. Refaktoring – tashqi xatti-harakatni o‘zgartirmasdan ichki tuzilmani o‘zgartirish
+17. Reinjiniring – yangi funksionallik yoki global o‘zgarishlar kiritish
+18. Dasturiy ta’minotni konstruktsiyalash – tizimni batafsil yaratish jarayoni
+19. Dasturiy ta’minot evolyutsiyasi – hayotiyligini saqlash uchun doimiy yangilash
+20. Dasturiy ta’minot ishlab chiqish tamoyillariga kirmaydi – Sotish
+21. Hayot aylanish modellari – Kaskadli; Inkrementli; V-shaklli; Evolyutsion; Komponentga yo‘naltirilgan
+22. Ilmiy-texnik muammolar uchun – funktsiyalar asosida loyihalash
+23. Ma’lumotlarni qayta ishlash tizimlari – ma’lumotlar oqimi asosida loyihalash
+24. Ma’lumotlar bazasi – ma’lumotlar tuzilmasiga asoslangan loyihalash
+25. Translyatorlar – abstrakt ma’lumotlar turlariga asoslangan loyihalash
+26. Obyektga yo‘naltirilgan yondashuvga kirmaydi – obyektga yo‘naltirilgan test
+27. IPO – Input–Processing–Output
+28. Obyekt – ma’lumotlar va protseduralar
+29. Predmet sohasini o‘rganish bosqichi – obyektga yo‘naltirilgan tahlil
+30. Dastur loyihasini yaratish bosqichi – obyektga yo‘naltirilgan loyihalash
+31. Sintaktik xatolar – Dasturlash bosqichida
+32. Xatoliklarni lokalizatsiya qilish – xatolik joyini aniqlash
+33. Sinov maqsadi – ishonchlilikni oshirish
+34. Eng yaxshi variantni tanlash – Optimallashtirish
+35. Eng ko‘p vaqt talab qiladigan qadam – Sinovdan o‘tkazish
+36. Hayot tsiklida eng ko‘p vaqt – Kuzatib borish
+37. Birinchi bosqich – talablarni shakllantirish
+38. Eng muhim sifat mezoni – Ishonchlilik
+39. Ishonchlilikni baholash – sinovdan o‘tkazish
+40. Dasturlash instrumental vositalari – kompilyatorlar va tarjimonlar
+41. Waterfall tamoyillari – aniq hujjatlar va ketma-ketlik
+42. RAD tamoyillari – iterativlik, tezlik, prototiplash, hamkorlik
+43. Ericsson yondashuvi muallifi – Ivar Jacobson
+44. Objectory AB yondashuvi – Ivar Jacobson
+45. Vazifa va mas’uliyatni taqsimlash – RUP
+46. RUP asosiy tamoyillari – iterativlik, talablarni boshqarish, komponentli arxitektura
+47. RUPda xavflarni kamaytirish – iterativ model
+48. Harakatlar ketma-ketligi – Workflow
+49. Software testing – real va kutilgan natijalarni tekshirish
+50. Verification – talablarga mosligini tekshirish
